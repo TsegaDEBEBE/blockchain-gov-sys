@@ -11,7 +11,7 @@ function App() {
           School of Computer Science & Technology
         </p>
         <p className="text-3xl mt-6 text-center">
-          The use of Blockchain for Government Data Management
+          A Blockchain-Based Approach for Government Document Verification
         </p>
         <p className="text-2xl w-10/12 text-end mt-4">
           Thesis by Tsega Debebe Worku

@@ -85,7 +85,7 @@ function Add() {
           />
         </div>
       </div>
-      <div id="Form" style={{ display: viewForm }}>
+      <div id="Form" className=" justify-center" style={{ display: viewForm }}>
         {formChoice === "none" ? null : formChoice === "passport" ? (
           <PassportForm />
         ) : formChoice === "identity" ? (
