@@ -10,3 +10,4 @@ After a close examination of blockchain implementation by multiple countries, so
 After some iterations the final system was developed and it shows the advantages of using one centralized blockchain to retain records of documents across multiple government sectors and by connecting every document with its proof of documents eliminates unverifiable documents. Meaning someone's passport token on the blockchain will be linked to their birth certificate token, and their birth certificate token will be linked to the parent’s identity token there by ensuring every  document’s connection with its proof of document. 
 
 This project is deployed [click here](https://blockchain-gov-sys.web.app/).
+Read the Master Thesis Reprot [here](https://github.com/TsegaDEBEBE/blockchain-gov-sys/blob/master/Thesis%20Report.pdf).
